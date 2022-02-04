@@ -1,0 +1,1 @@
+# WAD-Static-Page
